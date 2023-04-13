@@ -15,7 +15,7 @@ nav {
   display: flex;
   justify-content: space-evenly;
 }
-nav > header {
+ header > nav {
   font-size: 24px;
   color: #f9faf8;
   padding: 0;
